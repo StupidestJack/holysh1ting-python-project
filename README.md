@@ -29,7 +29,7 @@
 
 - **聯網撥號**  
   假的 PPPoE 啟動畫面，可配合開機自動禁用 Wi-Fi 2 使用。  
-  > [!NOTE]
+  > [!WARNING]
   > 需 Windows 11 24H2 以上，並啟用開發者模式的 sudo for Windows。
 
 ---
@@ -51,7 +51,9 @@
 ---
 
 ## 致謝
-感謝[GitHub Copilot](https://github.com/features/copilot)協助修飾Readme！
-感謝[Microsoft Copilot](https://www.microsoft.com/zh-tw/microsoft-365/copilot/meet-copilot?msockid=29e8b96d8e4e6efc3371af348f5e6f4d)協助代碼內容！
-感謝[橘子蘋果程式設計](https://orangeapple.co/)的教學讓我有能力更改代碼！
+ - 感謝[GitHub Copilot](https://github.com/features/copilot)協助修飾Readme！
+
+ - 感謝[Microsoft Copilot](https://www.microsoft.com/zh-tw/microsoft-365/copilot/meet-copilot?msockid=29e8b96d8e4e6efc3371af348f5e6f4d)協助代碼內容！
+
+ - 感謝[橘子蘋果程式設計](https://orangeapple.co/)的教學讓我有能力更改代碼！
 
