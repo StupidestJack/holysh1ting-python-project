@@ -29,8 +29,13 @@
 
 - **聯網撥號**  
   假的 PPPoE 啟動畫面，可配合開機自動禁用 Wi-Fi 2 使用。  
-  > [!WARNING]
   > 需 Windows 11 24H2 以上，並啟用開發者模式的 sudo for Windows。
+
+- **guru**  
+  仿造Amiga電腦的Guru Mendition字樣。
+  > [!CAUTION]
+  > 高血壓、心臟病等症狀者請勿使用！
+  > 內含可能驚嚇的畫面！
 
 ---
 
